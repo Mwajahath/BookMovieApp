@@ -12,7 +12,6 @@ import Input from '@material-ui/core/Input';
 import PropTypes from 'prop-types';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import { Link } from 'react-router-dom';
-import color from '@material-ui/core/colors/amber';
 
 const customStyles = {
     content: {
